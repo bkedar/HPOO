@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<identity id="e3f505bf-62e9-4303-8988-d650e36e82fb">
+  <descriptionCdata><![CDATA[e3f505bf-62e9-4303-8988-d650e36e82fb.description=This System account is used to hold admin account for tomcat manager
+]]></descriptionCdata>
+  <annotation>e3f505bf-62e9-4303-8988-d650e36e82fb.description</annotation>
+  <name>TomCatAdminAccount</name>
+  <token>{OBFUSCATED}VBZPi+vSO5BSpTivgT5uVD2w2Ruk9V3dKo48rzOtpNHVAi+dawo9wQDoYlKSQbc0L1gtYXwLfy2Ldq/WWkeGx/tDSzQUm2gsHnpoNT2LTDiJ8zDL7DhpeRKArGK06vNNiTrOsejzwoPrgtSfA7zozgAcccasPdnred2H72SjAj4fkvUovXm7EQH7OJsPsEk5nWL9q2rXIF57NLsipA9nSz3afFNlwJ4wgI4Wx7YMEKs=</token>
+</identity>
