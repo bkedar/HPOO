@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selectionList id="4b9b5c2e-4dd6-42fb-b440-47f7b742a226">
+  <descriptionCdata><![CDATA[4b9b5c2e-4dd6-42fb-b440-47f7b742a226.description=This Selection List Holds scenario of disaster recovery which is used to decide on which server we have to start stop application
+]]></descriptionCdata>
+  <annotation>4b9b5c2e-4dd6-42fb-b440-47f7b742a226.description</annotation>
+  <name>DR Scenario</name>
+  <storage>
+    <string>FailOver</string>
+    <string>FallBack</string>
+  </storage>
+</selectionList>
