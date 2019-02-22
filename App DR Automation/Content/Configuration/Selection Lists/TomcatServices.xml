@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selectionList id="16898ea0-b7de-4c84-8e13-179c0ba140bb">
+  <descriptionCdata><![CDATA[16898ea0-b7de-4c84-8e13-179c0ba140bb.description=This list contains different version of tomcat service availble and is used to take input from user to select service on server
+]]></descriptionCdata>
+  <annotation>16898ea0-b7de-4c84-8e13-179c0ba140bb.description</annotation>
+  <name>TomcatServices</name>
+  <storage>
+    <string>Tomcat7.1</string>
+    <string>Tomcat7.2</string>
+    <string>Tomcat7.3</string>
+    <string>Tomcat7.4</string>
+  </storage>
+</selectionList>
